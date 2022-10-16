@@ -3,3 +3,13 @@ body
     text-align: center;
     font-family: 'Time new roman';
 }
+
+#cabecera
+{
+    background: #2134;
+    color: aqua;
+    font-weight: bold;
+    margin: 0;
+    padding: 0,5em;
+
+}
